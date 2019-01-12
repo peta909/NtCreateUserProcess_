@@ -1,6 +1,8 @@
 
 #include "global.h"
 #include "nttypes.h"
+//Use of NtCreateUserProcess to create usermode process
+
 
 void dispError(NTSTATUS status) {
 	ULONG dummy;
