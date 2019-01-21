@@ -2,6 +2,7 @@
 This code is updated with the neccessary NDK to allow it to be compiled.
 The original code is from https://github.com/Microwave89/createuserprocess
 This is very useful to study the use of Native SysCalls to createprocess.
+If ran in win 10 a protected process would be created.
 
 Three Examples of Directly Using Vista's NtCreateUserProcess
 
